@@ -1,0 +1,202 @@
+#bordatopo{
+    position: fixed;
+}
+
+#blocotopo{
+    float: right;
+    margin-top: -5%;
+    width: 60%;
+    height: 2%;
+
+}
+
+#comofunciona{
+    font-size: 120%;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+
+}
+
+#quemsomos{
+    font-size: 120%;
+    display: inline-block;
+    margin-left: 7%;
+    text-decoration: none;
+    color: black;
+}
+
+#quemsomoslink{
+    font-size: 120%;
+    text-decoration: none;
+    color: black;
+}
+
+#contato{
+    display: inline-block;
+    margin-left: 7%;
+    text-decoration: none;
+    color: black;
+    font-size: 120%;
+}
+
+#separadortopo{
+    background-color: lightgray;
+    height: 1px;
+    margin-top: 10%;
+}
+
+#comofunciona:hover{
+    color: lightgray;
+
+}
+
+#quemsomoslink:hover{
+    color: lightgray;
+
+}
+
+#contato:hover{
+    color: lightgray;
+
+}
+
+#headtext{
+    font-size: 320%;
+    text-align: center;
+    margin-top: 4%;
+}
+
+#subtexto{
+    font-size: 250%;
+    text-align: center;
+}
+
+#blocobotao{
+    text-align: center;
+    margin-top: 2%;
+
+}
+
+#botaoemsi{
+    background-color: #4ecd5c;
+    border: none;
+    width: 80%;
+
+}
+
+#blocobotao:hover{
+    transform: scale(1.1);
+}
+
+#editarfontecorbotao{
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-size: 220%;
+    margin-left: 7%;
+}
+
+#logowhats{
+    margin-left: 5%;
+}
+
+#titulocomofunciona{
+    text-align: center;
+    margin-top: 7%;
+    font-size: 300%;
+}
+
+#textocomofunciona{
+    text-align: center;
+    font-size: 250%;
+}
+
+#imagem1{
+    margin-left: 28%;
+    margin-top:5% ;
+}
+
+#textoquemsomos{
+    text-align: center;
+    font-size: 250%;
+}
+
+#quemsomostitulo{
+    text-align: center;
+    margin-top: 7%;
+    font-size: 300%;
+}
+
+#titulocontato{
+    text-align: center;
+    margin-top: 7%;
+    font-size: 300%;
+}
+
+#blococontato{
+    margin-top: 5%;
+    margin-left: 15%;
+
+}
+#blococ{
+    display: inline-block;
+
+    margin-left: 5%;
+}
+
+#logowhats2{
+    margin-left: 20%;
+
+}
+#whatsapp{
+    font-size: 180%;
+    margin-top: 2%;
+
+}
+#w{
+    text-decoration: none;
+    color: black;
+}
+
+#logoface{
+    margin-left: 20%;
+
+}
+#facebook{
+    font-size: 180%;
+    margin-top: 2%;
+
+
+}
+
+#logoinsta{
+    margin-left: 20%;
+
+}
+#instagram{
+    font-size: 180%;
+    margin-top: 2%;
+
+}
+
+#logoemail{
+    margin-top: 10%;
+    margin-left: 15%;
+
+}
+#email{
+    font-size: 180%;
+    margin-top: 2%;
+
+}
+
+#blocoemail{
+    margin-left: 5%;
+    display: inline-block;
+
+}
+
+#emailtexto{
+    margin-left: 15%;
+}
